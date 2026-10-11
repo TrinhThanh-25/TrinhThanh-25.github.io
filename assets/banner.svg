@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Trinh Van Thanh — Computer Science, Software Engineering, Backend Systems</title>
+  <desc id="desc">A navy banner with pale blue typography and a restrained modular line motif.</desc>
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172c47"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9fc6ff"/><stop offset="1" stop-color="#3777c8"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="16" fill="url(#background)"/>
+  <g fill="none" stroke="#365273" stroke-width="1"><rect x="914" y="70" width="210" height="210" rx="18"/><rect x="954" y="110" width="130" height="130" rx="12"/><path d="M880 175h74m130 0h70M1019 40v70m0 130v75"/></g><g fill="#9fc6ff"><circle cx="914" cy="175" r="4"/><circle cx="1124" cy="175" r="4"/><circle cx="1019" cy="70" r="4"/><circle cx="1019" cy="280" r="4"/></g>
+  <text x="66" y="81" fill="#9fc6ff" font-family="Consolas,monospace" font-size="13" letter-spacing="3">DEVELOPER PORTFOLIO</text>
+  <text x="62" y="165" fill="#eef2f7" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="600" letter-spacing="-2">Trinh Van Thanh<tspan fill="#9fc6ff">.</tspan></text>
+  <text x="66" y="211" fill="#b7c5d9" font-family="Segoe UI,Arial,sans-serif" font-size="21">Computer Science · Software Engineering · Backend Systems</text>
+  <rect x="66" y="246" width="50" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="66" y="291" fill="#9fc6ff" font-family="Consolas,monospace" font-size="14" letter-spacing="1">SEEKING A SOFTWARE ENGINEER INTERNSHIP</text>
+</svg>
