@@ -63,4 +63,4 @@ Demo URL was supplied by the owner: [Visualizer demo](https://www.youtube.com/wa
 
 The omitted marketplace project was the source proposed for Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Flyway, OAuth2/OIDC, and Maven claims. Those claims are not included in this version. Docker, Docker Compose, GitHub Actions, NGINX, and Linux are not listed as demonstrated portfolio tools. Git is supported by the repositories; Raylib is present in the C++ projects.
 
-No claim is made about production readiness, deployment of project backends, performance, coverage, user counts, or microservices. GPA, scholarship, and IELTS are excluded.
+No claim is made about production readiness, deployment of project backends, performance, coverage, user counts, or microservices.
